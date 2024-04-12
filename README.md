@@ -1,6 +1,6 @@
 👋 Hello! I'm Soumya Yadav.
 
-👩‍💼 SDE Intern (Ecore Data Analytics)-(Jan 2024-present)
+👩‍💼 Software Engineer Intern (Ecore Data Analytics)-(Jan 2024-present)
 
 
 📜 Certifications:
